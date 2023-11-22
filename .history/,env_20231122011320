@@ -1,9 +1,0 @@
-DATABASE_URL="mongodb+srv://sudhanshu:SUdh2002@cluster0.ksxi0rp.mongodb.net/test"
-NEEXTAUTH_JWT_SECRET="NewSecret"
-NEXTAUTH_SECRET="NewSecret"
-
-GITHUB_ID=686c55164a30f3ae
-GITHUB_SECRET=d6daa0b293c1bd20fde746e7abfe49bbd26b3c9b
-
-GOOGLE_CLIENT_ID=558009815363-gdr6oj8drl8aj0i39c0s61u6kle7da2l.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
