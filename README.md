@@ -1,5 +1,6 @@
 # Fullstack Netflix Clone with NextJS, TailwindCSS & Prisma
 
+![220005380-ede4fb14-0b8d-4582-a063-3cc4beeccfb7](https://github.com/sudh-202/next-netflix-clone-web-app/assets/87563365/3f8e2aa7-6c98-43c7-b2a0-bd55d41eb2e1)
 
 
 Features:
